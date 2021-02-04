@@ -1,9 +1,9 @@
 # EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
-
+# 每月15日01:54 UTC时运行，最大限度地减少资源消耗。
 ## 说明
-
 自动获取账号内所有的VPS项目，并检测是否需要续期，需要续期会自动续期。
+Runs at 01:54 UTC on the 15th of every month,Minimize resource consumption
 
 ## 使用说明
 
