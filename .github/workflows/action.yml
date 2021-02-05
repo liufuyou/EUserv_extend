@@ -5,8 +5,9 @@ on:
   push:
     branches:
       - main
+#Cron表达式:crontab.guru
   schedule:
-    - cron: '54 1 15'
+    - cron: '54 1 15 * *'
 
 jobs:
   auto_renew:
